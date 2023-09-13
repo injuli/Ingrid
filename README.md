@@ -56,6 +56,6 @@ A Systems Engineer with three years of experience in web development. I'm passio
 I'm always interested in collaborating on exciting projects and learning new things! If you have any questions, suggestions, or just want to connect, please don't hesitate to contact me:
 
 - **LinkedIn:** [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ingrid-r-12679618a/)
-- **Website/Portfolio:** [<img alt="portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />	](https://portafolio-html-59583.firebaseapp.com/#/portfolio)
+- **Website/Portfolio:** [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />	](https://portafolio-html-59583.firebaseapp.com/#/portfolio)
 
 Thank you for visiting my GitHub profile! I hope you find my work interesting and look forward to the opportunity to collaborate with you in the future.
