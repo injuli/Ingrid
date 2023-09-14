@@ -40,13 +40,13 @@ A Systems Engineer with three years of experience in web development. I'm passio
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
-### 💾 Bases de Datos:
+### 💾 Databases:
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🦾 Databases: 
+### 🦾 Tools: 
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
